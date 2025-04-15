@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+}
+.header{
+    text-align: center;
+    font-size: 32px;
+    font-family: fantasy;
+}
+.image{
+    padding: 0 auto;
+    align-content: center;
+}
